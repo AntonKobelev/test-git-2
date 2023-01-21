@@ -7,4 +7,3 @@ if (userAge >= 18) {
 } else {
     console.log("Вы не совершеннолетний")
 }
-
